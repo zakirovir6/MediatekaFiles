@@ -1,0 +1,60 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3f024fbeca0dde307e6680dd7258463d",
+    "packages": [
+        {
+            "name": "zakirovir6/RecursiveDirectoryIterator",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zakirovir6/RecursiveDirectoryIterator.git",
+                "reference": "fb2e8bc0e5a9b13cbb8a9ee9ae4af0a711b829ba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zakirovir6/RecursiveDirectoryIterator/zipball/fb2e8bc0e5a9b13cbb8a9ee9ae4af0a711b829ba",
+                "reference": "fb2e8bc0e5a9b13cbb8a9ee9ae4af0a711b829ba",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.5"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Zakirovir\\": "src/"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Igor Zakirov",
+                    "email": "zakirovir6@gmail.com",
+                    "role": "Maintainer"
+                }
+            ],
+            "description": "PHP, based on opendir, readdir, rewinddir ",
+            "support": {
+                "source": "https://github.com/zakirovir6/RecursiveDirectoryIterator/tree/master",
+                "issues": "https://github.com/zakirovir6/RecursiveDirectoryIterator/issues"
+            },
+            "time": "2017-05-05 19:45:27"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "zakirovir6/recursivedirectoryiterator": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

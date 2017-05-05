@@ -1,0 +1,14 @@
+{
+	"name": "zakirovir6/MediatekaNew",
+	"type": "project",
+	"require":
+	{
+		"zakirovir6/RecursiveDirectoryIterator": "dev-master"
+	},
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:zakirovir6/RecursiveDirectoryIterator.git"
+		}
+	]
+}
