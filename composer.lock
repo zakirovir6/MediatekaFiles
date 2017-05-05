@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/zakirovir6/RecursiveDirectoryIterator.git",
-                "reference": "68da5d9d619265fef38ce86bdabadf80db76bbc2"
+                "reference": "d17ae94fa12a9d3e17a5cd6e187290e900aae0ed"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/zakirovir6/RecursiveDirectoryIterator/zipball/68da5d9d619265fef38ce86bdabadf80db76bbc2",
-                "reference": "68da5d9d619265fef38ce86bdabadf80db76bbc2",
+                "url": "https://api.github.com/repos/zakirovir6/RecursiveDirectoryIterator/zipball/d17ae94fa12a9d3e17a5cd6e187290e900aae0ed",
+                "reference": "d17ae94fa12a9d3e17a5cd6e187290e900aae0ed",
                 "shasum": ""
             },
             "require": {
@@ -44,7 +44,7 @@
                 "source": "https://github.com/zakirovir6/RecursiveDirectoryIterator/tree/master",
                 "issues": "https://github.com/zakirovir6/RecursiveDirectoryIterator/issues"
             },
-            "time": "2017-05-05 20:10:48"
+            "time": "2017-05-05 20:22:56"
         }
     ],
     "packages-dev": [],
